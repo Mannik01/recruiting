@@ -1,0 +1,51 @@
+{
+  "crews": [
+    {
+      "id": 1,
+      "vehicle": "pickup_truck",
+      "schedule": [
+        {
+          "start_hour": 11,
+          "end_hour": 12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "vehicle": "sedan",
+      "schedule": [
+        {
+          "start_hour": 9,
+          "end_hour": 10
+        },
+        {
+          "start_hour": 13,
+          "end_hour": 14
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "vehicle": "pickup_truck",
+      "schedule": [
+        {
+          "start_hour": 9,
+          "end_hour": 11
+        },
+        {
+          "start_hour": 14,
+          "end_hour": 17
+        },
+        {
+          "start_hour": 18,
+          "end_hour": 19
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "vehicle": "box_truck",
+      "schedule": []
+    }
+  ]
+}
