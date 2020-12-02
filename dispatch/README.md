@@ -2,7 +2,7 @@
 
 ## Problem
 
-When a new delivery is submitted to the system, we want to dispatch a crew fulfil the order.
+When a new delivery is submitted to the system, we want to dispatch a crew to fulfil the order.
 
 Your task is to create a function that will return the best crew to fulfil the order.
 
