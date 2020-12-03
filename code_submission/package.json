@@ -1,0 +1,18 @@
+{
+  "name": "code_submission",
+  "version": "1.0.0",
+  "description": "code submission",
+  "main": "optimal_crew.js",
+  "scripts": {
+    "start": "babel-node optimal_crew.js",
+    "test": "mocha ./optimal_crew.spec.js"
+  },
+  "author": "Mandip Silwal",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "mocha": "^8.2.1"
+  },
+  "type": "module"
+}
